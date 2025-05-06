@@ -21,6 +21,9 @@ This project implements bubble sort algorithm for both Python lists and linked l
 ### 6. Final Implementation
 ![Final Implementation](img/readme6.png)
 
+### 6. Final Implementation
+![Final Implementation](img/readme7.png)
+
 ## Features
 - Bubble sort implementation for Python lists
 - Bubble sort implementation for linked lists
