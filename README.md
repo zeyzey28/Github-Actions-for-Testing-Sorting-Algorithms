@@ -2,6 +2,25 @@
 
 This project implements bubble sort algorithm for both Python lists and linked lists, with automated testing using GitHub Actions.
 
+## Project Screenshots
+### 1. Project Structure
+![Project Structure](img/readme1.png)
+
+### 2. Test Implementation
+![Test Implementation](img/readme2.png)
+
+### 3. Test Results
+![Test Results](img/readme3.png)
+
+### 4. GitHub Actions Setup
+![GitHub Actions Setup](img/readme4.png)
+
+### 5. Git Configuration
+![Git Configuration](img/readme5.png)
+
+### 6. Final Implementation
+![Final Implementation](img/readme6.png)
+
 ## Features
 - Bubble sort implementation for Python lists
 - Bubble sort implementation for linked lists
