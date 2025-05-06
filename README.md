@@ -1,28 +1,29 @@
 # Sorting Algorithms with GitHub Actions
 
-This project implements bubble sort algorithm for both Python lists and linked lists, with automated testing using GitHub Actions.
+This project implements bubble sort algorithm for both Python lists and linked lists with automated testing using GitHub Actions.
 
 ## Project Screenshots
 ### 1. Creating Workflow and Push to Github
 ![Project Structure](img/readme6.png)
 
-### 2. Test Implementation
-![Test Implementation](img/readme2.png)
+### 2. Sorting Algorithms
+![Sorting Algorithms](img/readme1.png)
 
-### 3. Test Results
-![Test Results](img/readme3.png)
+### 3. Removed Comment Lines
+![Removed Comment Lines](img/readme2.png)
 
-### 4. GitHub Actions Setup
-![GitHub Actions Setup](img/readme4.png)
+### 4. Iter Class is Edited
+![Iter Class is Edited](img/readme3.png)
 
-### 5. Git Configuration
-![Git Configuration](img/readme5.png)
+### 5. Created Negative Values
+![Created Negative Values](img/readme4.png)
 
-### 6. Final Implementation
-![Final Implementation](img/readme1.png)
+### 6. Python Tests YML File Created
+![Python Tests YML File Created](img/readme5.png)
 
-### 6. Final Implementation
-![Final Implementation](img/readme7.png)
+
+### 7. Added Images to ReadMe File
+![Added Images to ReadMe File](img/readme7.png)
 
 ## Features
 - Bubble sort implementation for Python lists
